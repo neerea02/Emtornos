@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * Tarea del capitulo 4 de entornos de desarrollo
+ * @author usuario
+ *
+ */
 public class Criba
 {
 	
